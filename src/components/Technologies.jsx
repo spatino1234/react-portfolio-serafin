@@ -8,7 +8,7 @@ import { FaDocker } from "react-icons/fa";
 import { SiPrisma } from "react-icons/si";
 import { SiNuxtdotjs } from "react-icons/si";
 import { motion } from "framer-motion"
-import { transaction } from "mobx"
+
 
 const iconVariants = (duration) => ({
     initial: {y:-10},
